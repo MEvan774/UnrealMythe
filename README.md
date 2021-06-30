@@ -5,7 +5,7 @@ Developed with Unreal Engine 4
 Een spannend game waarin de speler 3 instrumenten moet vezamelen en Oni's ontwijken om uiteindelijk Amaterasu de grot uit te krijgen.
 
 
---Producten Werkproces 1--
+## --Producten Werkproces 1--
 Link Trello: [Trello](https://trello.com/b/9YZlOWnz/mythe-amaterasu)
 
 
@@ -17,7 +17,7 @@ Design document link: [Game design document](https://drive.google.com/drive/fold
 
 
 
---Producten Werkproces 2--
+## --Producten Werkproces 2--
 
 Product backlog: [product Backlog](https://trello.com/b/9YZlOWnz/mythe-amaterasu)
 
@@ -26,10 +26,10 @@ Sprint retrospective verslag 1/2/3: [Retrospective Backlog](https://teams.micros
 
 
 
---Producten Werkproces 3--
+## --Producten Werkproces 3--
 Speelbaar prototype: Unreal ondersteund html5 niet en de github voor de plugin werkt niet.
 Link Game: [Game](https://drive.google.com/drive/folders/189jHZMSPYo0PoImVyiv6agShLnfIQWrq?usp=sharing)
 (alle 4 bestanden downloaden en in een map doen)
 
 
-AssetPlanning: [Planning](https://cdn.discordapp.com/attachments/841215539321634847/842014437586370570/04-Planning_Mythe_2021.pdf)
+Asset Planning: [Planning](https://cdn.discordapp.com/attachments/841215539321634847/842014437586370570/04-Planning_Mythe_2021.pdf)
