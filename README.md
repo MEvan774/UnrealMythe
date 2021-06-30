@@ -1,5 +1,3 @@
-# UnrealMythe
-
 # Taiyõ ga nai (No sun)
 Een spannend game waarin de speler 3 instrumenten moet vezamelen en Oni's ontwijken om uiteindelijk Amaterasu de grot uit te krijgen.
 
