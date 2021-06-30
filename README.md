@@ -1,7 +1,6 @@
 # UnrealMythe
 
-Developed with Unreal Engine 4
-
+# Taiyõ ga nai (No sun)
 Een spannend game waarin de speler 3 instrumenten moet vezamelen en Oni's ontwijken om uiteindelijk Amaterasu de grot uit te krijgen.
 
 
