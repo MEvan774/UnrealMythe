@@ -16,7 +16,7 @@ Een spannend game waarin de speler 3 instrumenten moet vezamelen en Oni's ontwij
 
 ## --Producten Werkproces 2--
 
-- Product backlog: [product Backlog](https://trello.com/b/9YZlOWnz/mythe-amaterasu)
+- Product backlog: [Product Backlog](https://trello.com/b/9YZlOWnz/mythe-amaterasu)
 
 
  - Sprint retrospective verslag 1/2/3: [Retrospective Backlog](https://teams.microsoft.com/l/file/78DE9AF1-BF63-44B5-A701-791F6BFD9D67?tenantId=8e600f92-30df-4667-b7c0-3f2595f3f12b&fileType=pdf&objectUrl=https%3A%2F%2Fmediacollegeamsterdam.sharepoint.com%2Fteams%2FMytheGDGA2021-Team9%2FGedeelde%20documenten%2FTeam%209%2Fingeleverd%2FRetrospective_Sprint1_2_3.pdf&baseUrl=https%3A%2F%2Fmediacollegeamsterdam.sharepoint.com%2Fteams%2FMytheGDGA2021-Team9&serviceName=teams&threadId=19:92d37cd960784b8d816b9146a3e3aab5@thread.tacv2&groupId=d187bbaa-116e-4ac5-8d7f-a463d72bc41c)
